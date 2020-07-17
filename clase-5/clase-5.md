@@ -48,7 +48,7 @@ El ejemplo que estaba tratando de acordarme era: un análisis de los tweets de D
 
 **- count_vectorizer_2 = CountVectorizer(analyzer='word',  ngram_range=(2,2))**
 
-- el countvectorizer2 hace un análisis de ngrama por palabra en vez de carácter. es el default y no hace falta especificar el argumento analyzer= word.
+> El countvectorizer2 hace un análisis de ngrama por palabra en vez de carácter. es el default y no hace falta especificar el argumento analyzer= word.
 
 > El countvectorizer utiliza un diccionario inglés para remover las palabras que no suelen aportar mucha información  (y, el, ella). a su vez utiliza el analyzer de word porque es el defecto. en general son las que se repiten mucho/tienen poca entropía. utilizar un diccionario de stop words implica que estás haciendo un analice por palabras y no por letras. en general este use case es el más común: soles querer usar un diccionario para remover lo que no es importante y analizar por palabra.
 
