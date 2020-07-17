@@ -15,10 +15,14 @@ https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Method
 
 ## Extras
 https://www.clarin.com/sociedad/coronavirus-argentina-formula-matematica-explica-mismo-test-positivo-infectado_0_jIwmKK7fW.html
+
 https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego
+
 https://towardsdatascience.com/my-secret-sauce-to-be-in-top-2-of-a-kaggle-competition-57cff0677d3c
 
+
 https://github.com/lambdaclass/finance_playground
+
 https://github.com/lambdaclass/finance_playground/tree/master/notebooks/metadata-2020/rain-forecast
 
 El ejemplo que estaba tratando de acordarme era: un análisis de los tweets de Donald Trump donde diferenciaban entre los que había escrito Trump realmente y los que estaban escritos por un community manager, no solo eran diferentes en tono sino también en el horario en que fueron escritos. No encontre el que yo lei, pero hay varios sobre el mismo tema, como este: https://www.wired.com/story/tell-when-someone-else-tweets-from-realdonaldtrump/
@@ -38,9 +42,11 @@ El ejemplo que estaba tratando de acordarme era: un análisis de los tweets de D
 > Yo lo hubiese volado al método, pero si tenés usuarios finales que lo usan es difícil la migración.
 
 
-**Qué diferencia hay entre:
-- count_vectorizer = CountVectorizer(stop_words='english', min_df=0.05, max_df=0.9)
-- count_vectorizer_2 = CountVectorizer(analyzer='word',  ngram_range=(2,2))**
+**Qué diferencia hay entre:**
+
+**- count_vectorizer = CountVectorizer(stop_words='english', min_df=0.05, max_df=0.9)**
+
+**- count_vectorizer_2 = CountVectorizer(analyzer='word',  ngram_range=(2,2))**
 
 - el countvectorizer2 hace un análisis de ngrama por palabra en vez de carácter. es el default y no hace falta especificar el argumento analyzer= word.
 
