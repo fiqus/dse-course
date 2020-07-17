@@ -17,4 +17,4 @@
 ### [Clase 5 - Teorema de Bayes y Time Series](https://htmlpreview.github.io/?https://github.com/fiqus/dse-course/blob/master/clase-5/clase-5.html)
 ### [Clase 6 - Machine Learning](https://htmlpreview.github.io/?https://github.com/fiqus/dse-course/blob/master/clase-6/clase-6.html)
 ### [Clase 7 - CNN, LSTM y Reinforcement Learning](https://htmlpreview.github.io/?https://github.com/fiqus/dse-course/blob/master/clase-7/clase-7.html)
-### [Clase 8 - YOLO y Transferencia de aprendizaje](https://htmlpreview.github.io/?https://github.com/fiqus/dse-course/blob/master/clase-8/clase-8.html)
+### [Clase 8 - YOLO y Transferencia de aprendizaje](https://github.com/fiqus/dse-course/blob/master/clase-8/clase-8.md)
