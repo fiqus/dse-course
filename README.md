@@ -6,3 +6,8 @@
 
 
 ### Capacitación en Data Science y Machine Learning dictada por Lambda Class
+
+
+## Indice
+
+### [Clase 1 - Introducción](https://htmlpreview.github.io/?https://github.com/fiqus/dse-course/blob/master/Clase-1/Clase-1.html)
