@@ -13,9 +13,7 @@ https://www.youtube.com/watch?v=7YRU5F8E0Zk
 Plotting (matplotlib & seaborn) - [Apuntes](https://github.com/lambdaclass/data_etudes/blob/master/clases/clase_3/clase_3_plotting.ipynb)
 
 
-Estadística 
-
-[Apuntes](https://github.com/lambdaclass/data_etudes/blob/master/clases/clase_3/clase_3_estadistica.ipynb)
+Estadística - [Apuntes](https://github.com/lambdaclass/data_etudes/blob/master/clases/clase_3/clase_3_estadistica.ipynb)
 
 [Bayes theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 
