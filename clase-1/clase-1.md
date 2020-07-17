@@ -34,7 +34,7 @@ Que es uno de los puntapié iniciales para armar modelo estocásticos o determin
 
 ## Tarea
 
-1. ** Leer y evaluar errores del texto de la carne:**
+1. **Leer y evaluar errores del texto de la carne:**
 
 [http://revistaanfibia.com/ensayo/comer-carne-derecha/](http://revistaanfibia.com/ensayo/comer-carne-derecha/)
 
@@ -54,13 +54,16 @@ Un artículo que habla de este problema:
 
 Formato de la data de Titanic:
 
-**A) **Modificar en colab el código para ver qué pasa si se incorpora la edad como variable al modelo del titanic:
+![Titanic data format](https://github.com/fiqus/dse-course/blob/master/clase-1/images/image1.png)
+
+
+**A)** Modificar en colab el código para ver qué pasa si se incorpora la edad como variable al modelo del titanic:
 
 * Sin Age: 0.6641697877652933
 
 * Con Age: 0.731585518102372
 
-**B) **Intentar correr ejemplo de tpot automl con los datos del titanic
+**B)** Intentar correr ejemplo de tpot automl con los datos del titanic
 
 Usando los mismos X e Y train y test: 
 
