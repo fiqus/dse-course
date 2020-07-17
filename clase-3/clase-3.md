@@ -21,8 +21,7 @@ Introducción Scikit-learn
 
 Libro estadística
 
-https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf
-
+[An Introduction to Statistical Learning pdf](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 
 [Ejercicio exploratorio de MNIST](https://github.com/lambdaclass/data_etudes/blob/master/clases/clase_3/clase_3_ejercicio_MNIST.ipynb)
 
