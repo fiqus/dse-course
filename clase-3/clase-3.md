@@ -28,5 +28,5 @@ Libro estadística
 
 
 ## Extras
-https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9
+[TPOT automated ML](https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9)
 
