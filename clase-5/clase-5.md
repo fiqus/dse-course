@@ -10,7 +10,7 @@ https://youtu.be/sHMeq-BVLUw
 
 [Intuición visual del teorema](https://www.skobelevs.ie/BayesTheorem/)
 
-https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+[Probabilistic programming and Bayesian Methods](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 
 ## Extras
