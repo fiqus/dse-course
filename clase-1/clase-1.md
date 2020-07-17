@@ -5,7 +5,6 @@
 * Notas tomadas: [https://pad.incubadora.facttic.org.ar/p/DSC_Clase_1](https://pad.incubadora.facttic.org.ar/p/DSC_Clase_1)
 
 * Ciencia y A/B testing:
-
 [https://youarenotsosmart.com/2019/07/20/yanss-158-the-science-behind-why-we-find-a-b-testing-icky-when-it-comes-to-policies-practices-medicine-and-social-media/](https://youarenotsosmart.com/2019/07/20/yanss-158-the-science-behind-why-we-find-a-b-testing-icky-when-it-comes-to-policies-practices-medicine-and-social-media/)
 
 * Paper sobre como es imposible darse cuenta si el proceso subyacente es determinista, pero si complejo o estocastico:[ https://www.sciencedirect.com/science/article/pii/S135521980900032X](https://www.sciencedirect.com/science/article/pii/S135521980900032X)
@@ -26,9 +25,7 @@
 
 * "But to be clear: the methodology still involves models. Theory has not ended, it is expanding into new forms. Sure, we all love succinct theories like F = m a. But social science domains and even biology appear to be inherently more complex than physics. Let's stop expecting to find a simple theory, and instead embrace complexity, and use as much data as well as we can to help define (or estimate) the complex models we need for these complex domains."
 
-* Todo esto va de la mano del famoso paper de Anderson llamado "More is different" [https://science.sciencemag.org/content/177/4047/393](https://science.sciencemag.org/content/177/4047/393)
-
-Que es uno de los puntapié iniciales para armar modelo estocásticos o deterministas caoticos complejos
+* Todo esto va de la mano del famoso paper de Anderson llamado "More is different" [https://science.sciencemag.org/content/177/4047/393](https://science.sciencemag.org/content/177/4047/393) Que es uno de los puntapié iniciales para armar modelo estocásticos o deterministas caoticos complejos
 
 * Para cerrar, esta es la introducción al Feller. el mejor libro para empezar a aprender seriamente la probabilidad. Es de 1968. para que se den una idea fuera de la unión soviética en 1950 nadie le daba bola a la probabilidad. se lo tomaban como un juguete poco serio los matemáticos. A lo sumo algunas cosas muy sencillas de estadística. hoy en día es una pieza fundamental de la ciencia y de gran parte de los modelos de machine learning y data science que hay detrás de las páginas webs y de casi todo lo que hacemos. es algo muy nuevo y está en pañales, no hay que tener miedo en meterse. es difícil pero con tiempo y ganas se puede aprender mucho, todavía hay muy poca gente que realmente sabe.
 
