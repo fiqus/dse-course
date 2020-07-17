@@ -2,6 +2,7 @@
 
 ## Video
 [Parte 1](https://youtu.be/amtMWK8YqVQ)
+
 [Parte 2](https://youtu.be/EYi2D2raV5g)
 
 ## Material
